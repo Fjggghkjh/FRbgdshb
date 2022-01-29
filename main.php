@@ -48,10 +48,10 @@ $messagesec",
 	'reply_to_message_id'=> $message_id,
     'reply_markup'=>json_encode(['inline_keyboard' => [
         [
-          ['text' => "💠 Created By 💠", 'url' => "t.me/ninjanaveen"]
+          ['text' => "💠 Created By 💠", 'url' => "t.me/STTT_4"]
         ],
         [
-          ['text' => "💎 Source Code 💎", 'url' => "t.me/IndianBotsChat"]
+          ['text' => "💎 Source Code 💎", 'url' => "https://t.me/IFFFFll"]
         ],
       ], 'resize_keyboard' => true])
         
@@ -124,7 +124,7 @@ if(strpos($message, "/cmds") === 0 || strpos($message, "!cmds") === 0){
 <b>/bin | !bin</b> - Bin Lookup
 <b>/iban | !iban</b> - IBAN Checker
   
-  <b>ϟ Join <a href='t.me/IndianBots'>IndianBots</a></b>",
+  <b>ϟ Join <a href='t.me/IFFFFll'>ᯓ𝗗𝗖 | 𝗕𝗢𝗧𝗦</a></b>",
     'parse_mode'=>'html',
     'disable_web_page_preview'=>true,
     'reply_markup'=>json_encode(['inline_keyboard'=>[
